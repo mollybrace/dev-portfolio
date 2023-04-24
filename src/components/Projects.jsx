@@ -23,7 +23,7 @@ const Projects = () => {
                 <li>
                     <h1>NorthCoders Newsdesk</h1>
                     <p>React | SQL | Postgres | Express </p>
-                    <p><a href="https://dapper-wisp-cc8ecb.netlify.app/?topic=coding&sort_by=author&order=ASC">Link</a></p>
+                    <p><a href="https://northcoders-newsdesk.netlify.app/?topic=*&sort_by=created_at&order=DESC">Link</a></p>
                     <p>Frontend repo <a href="https://github.com/mollybrace/nc-news">here</a></p>
                     <p>Backend repo <a href="https://github.com/mollybrace/backend-project">here</a></p>
                 </li>
