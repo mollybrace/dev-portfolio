@@ -25,16 +25,25 @@
 
 .introduction {
   display: flex;
-  justify-content: flex-start;
-  width: 50%;
+  justify-content: center;
 }
 
 .bio {
-  justify-content: left;
+  padding-top: 50px;
+  justify-content: center;
+  width: 50%;
   flex-wrap: wrap;
   align-content: space-around;
 }
 
 .bio-2 {
-
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+img {
+  height: 250px;
+  border-radius: 50%;
 }

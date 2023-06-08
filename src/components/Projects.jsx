@@ -10,7 +10,7 @@ const Projects = () => {
                 <li>
                     <h1>Chat GPT Chatbot</h1>
                     <p>React | Open ai API | Express</p>
-                    <p>Link</p>
+                    <p>Not deployed yet</p>
                     <p>Github repo <a href="https://github.com/mollybrace/chatbot-app">here</a></p>
                 </li>
             </ul>
@@ -18,8 +18,9 @@ const Projects = () => {
             <div>
                 <ul>
                 <li>
-                    <h1>Mocean-Hypnotherapy</h1>
+                    <h1>Mocean-Hypnotherapy </h1>
                     <p>SvelteKit | Vercel | Tailwind CSS</p>
+                    <p>Currently under construction</p>
                     <p><a href="https://mocean-therapy-c6kskmw3d-mollybrace.vercel.app/">Link</a></p>
                     <p>Github repo <a href="https://github.com/mollybrace/mocean-therapy">here</a></p>
                 </li>

@@ -8,13 +8,15 @@ return (
 </p>
         </div>
         <div className="bio-2">
-            <p>The next paragraph</p>
+            <img src="./mollybrace.jpeg" alt="Molly Brace"></img>
         </div>
 
     </div>
 
         )
 }
+
+
 export default About;
 
 

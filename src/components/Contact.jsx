@@ -7,7 +7,7 @@ const Contact = () => {
         <ul>
             <li>Email: molly.rose.brace@gmail.com</li>
             <li><a href="https://www.linkedin.com/in/molly-brace-b837abb4/">Linkedin</a></li>
-            <li>See my Resume</li>
+            <li>Download my resume <a href="./cv.pdf">here</a></li>
 
         </ul>
 
