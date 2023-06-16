@@ -9,14 +9,9 @@ const Nav = () => {
         About
       </Link>
       {' | '}
-      <Link className="Contact" to="/Contact">
-        Contact
-      </Link>
-      {' | '}
       <Link className="Projects" to="/Projects">
         Projects
       </Link>
-      {' | '}
     </nav>
     )
 }

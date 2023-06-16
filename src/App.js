@@ -5,7 +5,6 @@ import Header from './components/Header';
 import Projects from './components/Projects';
 import Nav from './components/Nav';
 import { Routes, Route} from "react-router-dom"
-import Contact from './components/Contact';
 
 const App = () => {
 
@@ -15,7 +14,6 @@ const App = () => {
       <Header/>
       <Routes>
           <Route path="/" element={<About/>} />
-          <Route path="/Contact" element={<Contact />} />
           <Route path="/Projects" element={<Projects/>} />
       </Routes>
 
